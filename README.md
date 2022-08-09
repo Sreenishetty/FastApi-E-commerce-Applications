@@ -1,7 +1,7 @@
 # FastApi-E-commerce-Applications
+FastApi E-commerce Applications Endpoints
 
-                        ```FastApi E-commerce Applications Endpoints```
-## RODUCTION
+## INTRODUCTION
 ````
 API is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 
@@ -46,9 +46,9 @@ adding payment methods, address of the customer and buying the items
 
 Install
 ```
-    FastAPI
-    uvicorn
-    pymongo
+- FastAPI
+- uvicorn
+- pymongo
 ```
 
 Usage
